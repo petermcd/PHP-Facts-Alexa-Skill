@@ -1,12 +1,12 @@
 {
-  "name": "vendor_name/package_name",
-  "description": "description_text",
+  "name": "alexabible/PHP_Facts",
+  "description": "A simple facts skill for PHP. The skill utilies the Alexa Skills Kit SDK For PHP.",
   "minimum-stability": "dev",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
-      "name": "author's name",
-      "email": "email@example.com"
+      "name": "Peter McDonald",
+      "email": "tutorials@alexabible.com"
     }
   ],
   "repositories": [
