@@ -1,0 +1,61 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "p. h. p. facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "About",
+          "slots": [],
+          "samples": [
+            "Tell me about the skill",
+            "I would like to know more about the p. h. p. facts skill",
+            "I would like to know more about the p. h. p. skill",
+            "I would like to know more about this skill",
+            "Give me information about the p. h. p. facts skill",
+            "Give me information about the p. h. p. skill",
+            "Give me information about this skill",
+            "Tell me about the p. h. p. skill",
+            "Tell me about the p. h. p. facts skill",
+            "Tell me about this skill"
+          ]
+        },
+        {
+          "name": "AMAZON.YesIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NoIntent",
+          "samples": []
+        },
+        {
+          "name": "GetFact",
+          "slots": [],
+          "samples": [
+            "I would like to know more",
+            "I would like to know more about p. h. p.",
+            "I would like a fact",
+            "I would like a fact about p. h. p.",
+            "Tell me a p. h. p. fact",
+            "Tell me a fact",
+            "Give me a p. h. p. fact",
+            "Give me a fact",
+            "Fact"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

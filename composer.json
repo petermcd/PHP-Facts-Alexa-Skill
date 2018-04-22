@@ -1,0 +1,23 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/AlexaBible/Alexa-Skills-Kit-SDK-For-PHP",
+      "name": "Alexa Skills Kit SDK For PHP"
+    }
+  ],
+  "require": {
+    "php": ">=7.2",
+    "alexabible/alexa": ">=1.0"
+  }
+}

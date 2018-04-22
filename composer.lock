@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "63de811befd6d8f20ca9af8c12c4a3a9",
+    "packages": [
+        {
+            "name": "alexabible/alexa",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AlexaBible/Alexa-Skills-Kit-SDK-For-PHP",
+                "reference": "77f27c89360ff83b60ba750978067a46e3602f43"
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "alexa\\": "src/"
+                },
+                "psr-4": {
+                    "alexa\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Peter McDonald",
+                    "homepage": "http://petermcdonald.co.uk"
+                }
+            ],
+            "description": "SDK enabling PHP developers to easily create Alexa skills.",
+            "homepage": "https://alexabible.com",
+            "keywords": [
+                "alexa",
+                "ask",
+                "sdk"
+            ],
+            "support": {
+                "source": "https://github.com/AlexaBible/Alexa-Skills-Kit-SDK-For-PHP",
+                "issues": "https://github.com/AlexaBible/Alexa-Skills-Kit-SDK-For-PHP/issues"
+            },
+            "time": "2018-04-22T19:46:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2"
+    },
+    "platform-dev": []
+}
